@@ -15,7 +15,7 @@ Features
 * Detection of press vs drag
 * Compile-time configuration of thresholds and de-acceleration
 
-To do
+To Do
 -----
 
 * Add trivial example and Makefile
