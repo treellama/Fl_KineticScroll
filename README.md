@@ -1,5 +1,4 @@
 Fl_KineticScroll
-Fl_KineticScroll
 ================
 
 Kinetic scroll widget for FLTK
@@ -16,8 +15,8 @@ Features
 * Detection of press vs drag
 * Compile-time configuration of thresholds and de-acceleration
 
-TODO
-----
+To do
+-----
 
 * Add trivial example and Makefile
 * Windows and OS X support (currently depends on fl_event_time)
